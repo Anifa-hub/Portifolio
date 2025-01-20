@@ -1,0 +1,293 @@
+#img {
+    width: 50.06px;
+    height: 55px;
+    top: 62px;
+    
+}
+#body{
+    background-color:rgb(236, 248, 248);
+}
+#h1{
+    font-family: Roboto;
+    font-size: 30px;
+    text-align: left;
+    display: flex;
+    padding-left: 30px;
+    color: #445964;
+}
+#division{
+    display: flex;
+    padding-left: 94px; 
+   
+    
+
+}
+
+
+#navigation{
+    width: 856px;
+height: 23px; 
+gap: 20px;
+display: flex;
+padding-left: 240px;
+margin-top: -57px;
+color: #445964;
+
+
+
+}
+#list{
+    display: flex;
+    gap: 60px;
+    float: right;
+    text-align: justify;
+    list-style: none;
+    color: #445964;
+    padding-left: 390px;
+}
+#paragraph1{
+   font-size: small;
+   color: #445964;
+   
+}
+#p2{
+    font-size: 35px;
+    color: #445964;
+}
+
+#dv2{
+padding-left: 94px;
+padding-top: 159px; 
+color: #445964;
+
+}
+#image{
+    
+ height: 467px;
+width: 705px;
+padding-left:480px ; 
+margin-top: -237px;
+
+
+}
+#p4{
+    
+    width: 150px;
+height: 25px;
+margin-top: -98px;
+border-radius: 10px 10px 10px 10px;
+color: white;
+
+padding-top: 14px;
+margin-left: 90px;
+
+text-align: left;
+background-color: #263138  
+}
+#image3{
+    padding-top: 70px;
+    padding-left: 563px;
+    height: 140px;
+
+}
+#p5{
+    padding-left: 483px;
+    font-size: 44px;
+    font-weight: bolder;
+    margin-top: 13px;
+}
+#p6{
+    padding-left: 343px;  
+    margin-top: -23px;
+    color: #445964;
+    font-weight: 54px;
+}
+#p7{
+    padding-left: 543px; 
+    font-weight: bolder;
+    font-size: 44px  
+}
+#middle{
+     display: flex;
+     gap: 97px;
+     padding-left: 404px;
+     margin-top: -33px;
+     font-weight: bolder;
+     color: #445964;
+     font-size: 20px 
+}
+#middle2{
+    display: flex;
+    gap: 97px;
+    padding-left: 380px;
+    margin-top: 33px;
+    font-weight: bolder;
+    color: #445964;
+    font-size: 20px 
+}
+#middle3{
+    display: flex;
+    padding-left: 430px;
+    gap: 12px;
+    margin-top: 53px;
+    font-weight: bold;
+    font-size: 58px 
+    
+
+}
+#p9{
+    color: #445964;
+}
+#p8{
+    color: #263138;
+}
+#p10{
+    padding-left: 550px;
+    font-family: Robot;
+    margin-top: 63px;
+    font-size: 18px;
+    color: #445964; 
+}
+#p11{
+    padding-left: 490px;
+    font-family: Robot;
+    margin-top: -13px;
+    font-size: 38px 
+    
+ 
+}
+#vectors{
+    padding-left: 410px;
+    display: flex;
+    gap: 93px;
+}
+#pic1{
+    width: 59px;
+    height: 76px;
+}
+#pic2{
+    width: 59px;
+    height: 76px; 
+}
+#pic3{
+    width: 59px;
+    height: 76px;
+}
+#middle3a{
+    display: flex;
+    padding-left: 390px;
+    gap: 12px;
+    font-family: Robot;
+    margin-top: 53px;
+    font-weight: bold;
+    font-size: 38px
+      
+}
+#group{
+    padding-left: 340px;
+    display: flex;
+    gap: 93px;
+
+}
+#group1{
+    width: 59px;
+    height: 76px;
+}
+#group2{
+    width: 59px;
+    height: 76px; 
+}
+#group3{
+    width: 59px;
+    height: 76px;
+}
+#group4{
+    width: 59px;
+    height: 76px;
+}
+#last{
+    display: flex;
+    padding-left: 380px;
+    margin-top: 63px;
+    gap: 45px;
+    font-family: Robot;
+}
+#p13{
+    font-size: 34px;
+    font-weight: bolder;
+    margin-top: -10px;
+    font-family: Robot;
+    color: #445964
+
+
+}
+#p12{
+    color: #445964;
+}
+#p14{
+    padding-left: 634px;
+    margin-top: -43px;
+    font-size: 34px;
+    font-weight: bolder;
+    font-family: Robot;
+}
+#footer{
+    display: flex;
+    padding-left: 174px;
+    gap: 23px;
+    margin-top: 193px;
+
+    
+}
+#footer1{
+    border-radius: 20px 20px 20px 20px;
+    height: 174px;
+    width:324px ;
+    text-align: center;
+    font-family: Robot;
+    color: white;
+    background-color:#263138 ;
+}
+#footer2{
+    border-radius: 20px 20px 20px 20px;
+    height: 174px;
+    width:324px ;
+    text-align: center;
+    font-family: Robot;
+    color: white;
+    background-color: #445964;
+}
+#fotage1{
+    display: flex;
+    padding-left: 540px;
+    margin-top: 99px;
+}
+#fotage2{
+    display: flex;
+    margin-top: -29px;
+    padding-left: 540px
+    
+}
+#p15{
+    font-weight: bolder;
+    color: #263138;
+
+}
+#p16{
+    color: #445964;
+}
+#p18{
+    font-weight: bolder;
+    color: #263138;
+}
+#p19{
+    color: #445964;
+}
+#p20{
+    padding-left: 580px;
+    font-family: Robot;
+    font-size: 23px;
+    font-weight:bolder;
+    color: #263138;
+
+}
